@@ -27,7 +27,7 @@ namespace To_Test_Git
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
+            MessageBox.Show("github is the best");
         }
     }
 }
